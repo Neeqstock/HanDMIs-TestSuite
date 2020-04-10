@@ -1,2 +1,4 @@
 # HanDMIs-TestSuite
-A test suite for performance tests to evaluate alternative interaction channels suitable for quadriplegic users
+A test suite for performance tests to evaluate alternative interaction channels suitable for quadriplegic users.
+
+REPOSITORY UNDER CONSTRUCTION!
